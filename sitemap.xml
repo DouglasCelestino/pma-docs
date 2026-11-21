@@ -5,6 +5,10 @@
          <lastmod>2026-11-21</lastmod>
     </url>
     <url>
+         <loc>https://douglascelestino.github.io/pma-docs/account/</loc>
+         <lastmod>2026-11-21</lastmod>
+    </url>
+    <url>
          <loc>https://douglascelestino.github.io/pma-docs/auth/</loc>
          <lastmod>2026-11-21</lastmod>
     </url>
@@ -25,11 +29,19 @@
          <lastmod>2026-11-21</lastmod>
     </url>
     <url>
+         <loc>https://douglascelestino.github.io/pma-docs/exchange/</loc>
+         <lastmod>2026-11-21</lastmod>
+    </url>
+    <url>
          <loc>https://douglascelestino.github.io/pma-docs/gateway/</loc>
          <lastmod>2026-11-21</lastmod>
     </url>
     <url>
          <loc>https://douglascelestino.github.io/pma-docs/ia/</loc>
+         <lastmod>2026-11-21</lastmod>
+    </url>
+    <url>
+         <loc>https://douglascelestino.github.io/pma-docs/web/</loc>
          <lastmod>2026-11-21</lastmod>
     </url>
 </urlset>
