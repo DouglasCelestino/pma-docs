@@ -28,3 +28,7 @@ Todo o código foi executado antes de entrar no repositório: testes de ponta a 
 - Por que o token vai em cookie `HttpOnly` e não no corpo da resposta.
 - Interface (`auth`) versus implementação (`auth-service`) e o papel do Feign.
 - Como o nginx e o HPA distribuem a carga, e por que o Trivy bloqueia o pipeline.
+
+## Vídeo
+
+O vídeo de apresentação (`docs/evidencias/store-douglas.mp4`) foi montado pela IA: telas de texto, a saída real do `kubectl` durante o load test no EKS (capturada a cada 5 segundos) e narração com a voz sintética "Microsoft Maria" do Windows. O roteiro foi escrito pela IA e o aluno é o responsável pelo conteúdo.
